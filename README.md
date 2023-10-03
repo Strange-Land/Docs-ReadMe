@@ -30,7 +30,7 @@ The organization will host various repositories, each serving distinct functiona
 #### Scenarios Management
 1. `scen_StrangeTown`: An example town built with unity assets.(not Public
 2. `scen_NPCsLoader`: Manages NPCs within the scene.
-
+3. `scen_NPC_TrafficLights`: Manages NPCs within the scene.
 #### Recording
 1. `rec_ReRun`: For recording and playing back the scenarios inside Unity. (uses the UltimateReplay 2.0 Unity package)
 2. `rec_CSV`: Houses data recording elements to CSV (Farlab_logger).
